@@ -1,0 +1,12 @@
+1,Anthony,120000
+2,Belle,90000
+3,Carolyn,85000
+4,David,13000
+5,Edwin,60000
+6,Dan,100
+7,Timothy,180000
+7,James,90000
+10,Jason,10000
+11,Jane,190000
+12,Alex,100000
+13,John,200000

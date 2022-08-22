@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadEmployee": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\trand8\\source\\repos\\Week_5_Demo\\ReadEmployee"
+    }
+  }
+}
